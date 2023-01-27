@@ -5,7 +5,7 @@ any window to be minimized to the system tray by:
 
 - Right-clicking its minimize button
 - Shift-right-clicking its title bar
-- Using the Control-Alt-Down hotkey
+- Using the Windows+Control+Alt+Down hotkey
 
 Note that not all of these methods will work for every window, so please use
 whichever one works for your needs.
